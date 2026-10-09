@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://enzihub.github.io/voice-meeting-booker/"><b>Website</b></a> ·
+  <a href="docs/index.html"><b>Project page</b></a> ·
   <a href="#quick-start">Quick start</a> ·
   <a href="#how-it-works">How it works</a> ·
   <a href="#configuration">Configuration</a>
@@ -109,7 +109,7 @@ components/                       AgentScreen, LiveCallPanel, SettingsModal, Nav
 lib/config.ts                     env-driven configuration
 lib/extract-slot.ts               transcript parsing and OpenAI slot extraction
 scripts/fake-vapi.mjs             local fake of the VAPI API for the demo
-docs/                             the project website (GitHub Pages)
+docs/                             the project page (self-contained, open docs/index.html)
 ```
 
 ## Status
